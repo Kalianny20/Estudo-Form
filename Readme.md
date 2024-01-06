@@ -1,12 +1,12 @@
 # Cadastro de DEVs
 
-## Tutorial em Vídeo
+## Estudo
 
-Este formulário de cadastro de desenvolvedores (DEVs) foi criado com base em um tutorial em vídeo encontrado no YouTube. Através do tutorial, aprendi a construir formulários web utilizando HTML e CSS.
+Este formulário de cadastro de desenvolvedores (DEVs) foi criado para estudo pessoal. Assim, aprendi a construir formulários web utilizando HTML e CSS.
 
 ## Personalização
 
-Após seguir o tutorial, fiz algumas personalizações no formulário para torná-lo mais alinhado com o meu estilo. Adicionei cores e ajustei os estilos para criar uma aparência única.
+Adicionei cores e ajustei os estilos para criar uma aparência única.
 
 ## Como Utilizar
 
@@ -37,10 +37,6 @@ Após seguir o tutorial, fiz algumas personalizações no formulário para torn�
 5. Conte um pouco sobre sua experiência como desenvolvedor.
 
 6. Clique no botão "Concluído" para enviar o formulário.
-
-## Reconhecimentos
-
-Agradeço ao autor do tutorial no YouTube por compartilhar conhecimento valioso e por ser parte fundamental do meu aprendizado na criação de formulários web.
 
 ---
 
